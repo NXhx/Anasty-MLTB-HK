@@ -1,5 +1,7 @@
 # Deploy to HEROKU
 
+# <b>Video Guide <a href='https://lord2tb.hrishithombare26.workers.dev/0:/Anasty-MLTB_HR.mp4?a=view'>Here</a></b>
+
 **<u>Important Note:</u>**
 1. Add all of your private files here: `config.env`, `token.pickle`, `rcl.conf`, `accounts.zip` etc...
 
